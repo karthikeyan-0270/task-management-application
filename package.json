@@ -2,7 +2,7 @@
   "name": "task-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://karthikeyan-0270.github.io/task-management-application",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
